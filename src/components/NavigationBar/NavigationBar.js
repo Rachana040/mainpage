@@ -20,20 +20,7 @@ class NavigationBar extends Component {
                                 <a href="#" className="dropdown-toggle nav-link" data-toggle="dropdown">
                                     <i className="material-icons">apps</i> Sign in options
                         </a>
-                                <div className="dropdown-menu dropdown-with-icons">
-                                    <a href="https://www.gmail.com/" className="dropdown-item" target="_blank">
-                                    <span class="fa fa-google add"></span>Sign in with Google
-                                    </a>
-                                    <a href="https://www.twitter.com/" className="dropdown-item" target="_blank">
-                                    <span class="fa fa-twitter add"></span> Sign in with Twitter
-                                    </a>
-                                    <a href="https://www.github.com/" className="dropdown-item" target="_blank">
-                                    <span class="fa fa-github add"></span>Sign in with Github
-                                    </a>
-                                    <a href="https://www.facebook.com/" className="dropdown-item" target="_blank">
-                                    <span class="fa fa-facebook-square add"></span> Sign in with Facebook
-                                    </a>
-                                </div>
+                                
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link" rel="tooltip" title="" data-placement="bottom" href="" target="_blank" >
